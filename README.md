@@ -40,3 +40,7 @@ Built With:
 Note:
 
 Video and audio files are not included in this repository.
+
+Demo
+
+![Terminal Video Renderer Demo](demo.gif)
