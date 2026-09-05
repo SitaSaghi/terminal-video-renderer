@@ -1,16 +1,16 @@
-# Terminal Video Renderer 🎬
+Terminal Video Renderer
 
 A Python program that converts videos into colored ASCII-style animations and plays them directly in the terminal.
 
-## Features
+Features:
 
-- 🎨 Colored terminal output
-- 🔤 Adaptive character rendering
-- 🎵 Audio playback
-- ⚡ Frame skipping for smoother playback
-- 🎥 Real-time video processing with OpenCV
+- Colored terminal output
+- Adaptive character rendering
+- Audio playback
+- Frame skipping for smoother playback
+- Real-time video processing with OpenCV
 
-## Requirements
+Requirements:
 
 - Python 3
 - FFmpeg
@@ -21,7 +21,7 @@ Install the required Python packages:
 pip install -r requirements.txt
 ```
 
-## Run
+Run:
 
 Place your video in the project folder and run:
 
@@ -29,7 +29,7 @@ Place your video in the project folder and run:
 python main.py
 ```
 
-## Built With
+Built With:
 
 - Python
 - OpenCV
@@ -37,6 +37,6 @@ python main.py
 - Pygame
 - FFmpeg
 
-## Note
+Note:
 
 Video and audio files are not included in this repository.
